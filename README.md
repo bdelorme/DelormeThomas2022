@@ -1,3 +1,5 @@
 # DelormeThomas2022
 
-documentation and post-processing scripts to come
+The files in *MITgcm/* can be used to reproduce the experiment from the manuscript.
+
+More documentation and the post-processing scripts will be added soon.
